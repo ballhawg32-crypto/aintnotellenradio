@@ -1,0 +1,2 @@
+MANAGERDOMAIN=surfernetwork.com
+CONTACT=support@surfernetwork.com
